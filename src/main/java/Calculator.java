@@ -6,5 +6,3 @@ public class Calculator {
         System.out.println(coffee.discountCalculator(8.00,15));
     }
 }
-
-
